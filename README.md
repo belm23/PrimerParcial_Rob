@@ -1,9 +1,6 @@
 # Primer Parcial Robótica
 Visualización y Control Cinemático Inverso de Dedos
 Implementacion de la visualización y control de cinemática inversa para los dedos índice y pulgar utilizando ROS2 y RViz.
-# Objetivos
-Implementar la visualización y control de cinemática inversa para el dedo índice.
-Implementar la visualización y control de cinemática inversa para el dedo pulgar.
 
 # Configuración del Modelo
 
