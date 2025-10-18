@@ -13,3 +13,5 @@ ros2 run my_package pub3
 ros2 run my_package filter
 
 ros2 run my_package finish
+
+Nota: El nodo del filtro (Nodo_4) solo se activara si los 3 nodos de publicacion (sensores) estan publicando.
