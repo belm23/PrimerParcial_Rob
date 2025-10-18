@@ -14,4 +14,4 @@ ros2 run my_package filter
 
 ros2 run my_package finish
 
-Nota: El nodo del filtro (Nodo_4) solo se activara si los 3 nodos de publicacion (sensores) estan publicando.
+Nota: El nodo del filtro (Nodo_4) estara en modo de espera hasta que los 3 nodos de publicacion (sensores) funcionen.
